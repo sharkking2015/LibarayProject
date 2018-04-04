@@ -7,6 +7,7 @@ import android.util.Log;
  */
 
 public class MyLog {
+
     public static final boolean DEBUG = true;
 
     public static void i(String tag,String message){
